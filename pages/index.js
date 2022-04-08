@@ -165,42 +165,42 @@ export default function Home() {
               <div className='row'>
                 <div className='col-md-3'>
                   <div className="brand-img">
-                    <Image src="/images/index/brand-spayee.png" layout='responsive' width={259} height={100} />
+                    <Image src="/images/index/brand-spayee.png" layout='responsive' width={129.25} height={35.33} />
                   </div>
                 </div>
                 <div className='col-md-3'>
                   <div className="brand-img">
-                    <Image src="/images/index/brand-finshots.png" layout='responsive' width={259} height={100} />
+                    <Image src="/images/index/brand-finshots.png" layout='responsive' width={150.25} height={35.55} />
                   </div>
                 </div>
                 <div className='col-md-3'>
                   <div className="brand-img">
-                    <Image src="/images/index/brand-qoohoo.png" layout='responsive' width={259} height={100} />
+                    <Image src="/images/index/brand-qoohoo.png" layout='responsive' width={129.25} height={35.58} />
                   </div>
                 </div>
                 <div className='col-md-3'>
                   <div className="brand-img">
-                    <Image src="/images/index/brand-dyba.png" layout='responsive' width={259} height={100} />
+                    <Image src="/images/index/brand-dyba.png" layout='responsive' width={129.25} height={39.13} />
                   </div>
                 </div>
                 <div className='col-md-3'>
                   <div className="brand-img">
-                    <Image src="/images/index/brand-magtapp.png" layout='responsive' width={259} height={100} />
+                    <Image src="/images/index/brand-magtapp.png" layout='responsive' width={129.25} height={31.67} />
                   </div>
                 </div>
                 <div className='col-md-3'>
                   <div className="brand-img">
-                    <Image src="/images/index/brand-alagrand.png" layout='responsive' width={259} height={100} />
+                    <Image src="/images/index/brand-alagrand.png" layout='responsive' width={149.25} height={32.01} />
                   </div>
                 </div>
                 <div className='col-md-3'>
                   <div className="brand-img">
-                    <Image src="/images/index/brand-chintamoney.png" layout='responsive' width={259} height={100} />
+                    <Image src="/images/index/brand-chintamoney.png" layout='responsive' width={148.87} height={58.66} />
                   </div>
                 </div>
                 <div className='col-md-3'>
                   <div className="brand-img">
-                    <Image src="/images/index/brand-social-samosa.png" layout='responsive' width={259} height={100} />
+                    <Image src="/images/index/brand-social-samosa.png" layout='responsive' width={119.58} height={61.41} />
                   </div>
                 </div>
               </div>
