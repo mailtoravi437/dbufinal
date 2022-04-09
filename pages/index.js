@@ -35,7 +35,7 @@ export default function Home() {
                     <p className='product-wrapper--subtitle'>Branding &amp; website design for an edutech startup</p>
                   </div>
                   <div className="content">
-                    <Link href="/projects/spayee"><a><Image src="/images/index/spayee.png" width={486} height={450} layout="responsive" /></a></Link>
+                    <Link href="/projects/spayee"><a><Image src="/images/projects/spayee.png" width={486} height={450} layout="responsive" /></a></Link>
                   </div>
                 </div>
               </div>
@@ -46,7 +46,7 @@ export default function Home() {
                     <p className='product-wrapper--subtitle'>Brand identity for a financial short news application</p>
                   </div>
                   <div className="content">
-                    <Link href="/projects/finshots"><a><Image src="/images/index/finshots.png" width={486} height={450} layout="responsive" /></a></Link>
+                    <Link href="/projects/finshots"><a><Image src="/images/projects/finshots.png" width={486} height={450} layout="responsive" /></a></Link>
                   </div>
                 </div>
               </div>
@@ -57,7 +57,7 @@ export default function Home() {
                     <p className='product-wrapper--subtitle'>Branding, UI/UX &amp; icon designs for an AR product</p>
                   </div>
                   <div className="content">
-                    <Link href="/projects/dybo"><a><Image src="/images/index/dybo.png" width={486} height={450} layout="responsive" /></a></Link>
+                    <Link href="/projects/dybo"><a><Image src="/images/projects/dybo.png" width={486} height={450} layout="responsive" /></a></Link>
                   </div>
                 </div>
 
@@ -69,7 +69,7 @@ export default function Home() {
                     <p className='product-wrapper--subtitle'>Landing page &amp; digital ads for US based fintech product</p>
                   </div>
                   <div className="content">
-                  <Link href="/projects/rain"><a><Image src="/images/index/rain-pay.png" width={486} height={450} layout="responsive" /></a></Link>
+                  <Link href="/projects/rain"><a><Image src="/images/projects/Rain.png" width={486} height={450} layout="responsive" /></a></Link>
                   </div>
                 </div>
 
@@ -81,7 +81,7 @@ export default function Home() {
                     <p className='product-wrapper--subtitle'>Branding &amp; website design for an IT industry</p>
                   </div>
                   <div className="content">
-                  <Link href="/projects/eynetech"><a><Image src="/images/index/eyentech.png" width={486} height={450} layout="responsive" /></a></Link>
+                  <Link href="/projects/eynetech"><a><Image src="/images/projects/Eyntech.png" width={486} height={450} layout="responsive" /></a></Link>
                   </div>
                 </div>
 
@@ -93,7 +93,7 @@ export default function Home() {
                     <p className='product-wrapper--subtitle'>Brand identity &amp; app design for an agritech product</p>
                   </div>
                   <div className="content">
-                  <Link href="/projects/bakul-fresh"><a><Image src="/images/index/bakul.png" width={486} height={450} layout="responsive" /></a></Link>
+                  <Link href="/projects/bakul-fresh"><a><Image src="/images/projects/Bakul.png" width={486} height={450} layout="responsive" /></a></Link>
                   </div>
                 </div>
               </div>
