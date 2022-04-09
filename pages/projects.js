@@ -39,7 +39,7 @@ export default function Projects() {
                                         <p className='product-wrapper--subtitle'>Branding &amp; website design for an edutech startup</p>
                                     </div>
                                     <div className="content">
-                                        <Link href="/projects/spayee"><a><Image src="/images/projects/spayee.png" width={486} height={450} layout="responsive" /></a></Link>
+                                        <Link href="/projects/spayee"><a><Image src="/images/projects/Spayee.png" width={486} height={450} layout="responsive" /></a></Link>
                                     </div>
                                 </div>
                             </div>
@@ -50,7 +50,7 @@ export default function Projects() {
                                         <p className='product-wrapper--subtitle'>Brand identity for a financial short news application</p>
                                     </div>
                                     <div className="content">
-                                        <Link href="/projects/finshots"><a><Image src="/images/projects/finshots.png" width={486} height={450} layout="responsive" /></a></Link>
+                                        <Link href="/projects/finshots"><a><Image src="/images/projects/Finshots.png" width={486} height={450} layout="responsive" /></a></Link>
                                     </div>
                                 </div>
                             </div>
@@ -61,7 +61,7 @@ export default function Projects() {
                                         <p className='product-wrapper--subtitle'>Branding, UI/UX &amp; icon designs for an AR product</p>
                                     </div>
                                     <div className="content">
-                                    <Link href="/projects/dybo"><a><Image src="/images/projects/dybo.png" width={486} height={450} layout="responsive" /></a></Link>
+                                    <Link href="/projects/dybo"><a><Image src="/images/projects/Dybo.png" width={486} height={450} layout="responsive" /></a></Link>
                                     </div>
                                 </div>
 
